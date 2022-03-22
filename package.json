@@ -1,0 +1,26 @@
+{
+  "name": "vscodehome",
+  "version": "1.0.0",
+  "description": "Это домашнее задание",
+  "main": "index.js",
+
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "scripts":{ "eslint": "eslint"},
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaibakovIT/7.2.-Node.js.git"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaibakovIT/7.2.-Node.js/issues"
+  },
+  "homepage": "https://github.com/BaibakovIT/7.2.-Node.js#readme"
+
+}
